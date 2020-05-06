@@ -1,3 +1,13 @@
+Созданные мной файлы:
+
+/models/Users.php
+/views/users/index.php
+/controllers/UsersController.php
+/migrations/m200506_182031_create_jun_tables.php
+
+Переадресация на /users/index.php имеется
+_________________________________________________________________________
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
